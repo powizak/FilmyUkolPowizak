@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Katalog filmů</string>
+    <string name="titulek_katalogu">Katalog filmů</string>
+    <string name="naSirku">Na šířku</string>
+    <string name="login_uzivatelske_jmeno">Uživatelské jméno</string>
+    <string name="login_heslo">Heslo</string>
+    <string name="login_prihlasit">Přihlásit se</string>
+    <string name="login_bezmenzny_souhlas">Bezmezně souhlasím s podmínkami aplikace</string>
+</resources>
